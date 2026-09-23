@@ -1,6 +1,6 @@
 <div align="center">
 
-# `SAIFUL`
+# `Aris`
 
 **student · builder · future AI engineer**
 
@@ -108,6 +108,6 @@ LOCATION  : Bangladesh
 
 ### `— keep building —`
 
-<sub>© Saiful · built with curiosity</sub>
+<sub>© Aris · built with curiosity</sub>
 
 </div>
